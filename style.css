@@ -1,0 +1,23 @@
+.heading{
+    text-align: center;
+    text-decoration: underline;
+}
+.align{
+    margin-left: 42px;
+}
+
+
+
+
+.short_ans, .question_heading{
+text-decoration: underline;
+font-weight: bold;
+}
+
+.ans{
+ margin-left: 110px;
+}
+
+.long_ans{
+    font-weight: bold;
+}
